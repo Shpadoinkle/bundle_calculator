@@ -43,7 +43,7 @@ const data = {
 // seperate list of products
 const { products } = data;
 
-// function to break up tag string into object readable values
+// function to break up tag string into object with readable values
 function breakProductTag(string) {
   const productValues = {};
   for (var param of string.split(":")) {
