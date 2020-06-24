@@ -89,7 +89,7 @@ let expandedProducts = products.map((p) => {
 
 /**
  *
- * A bit unsure of your real worl application and use.. so might be wrong with this assumption
+ * A bit unsure of your real world application and use.. so might be wrong with this assumption
  * for determining the current bundle.
  * But basically assuming if a particular bundleId exists on every product in the array.. then this is the bundle in question
  */
